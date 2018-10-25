@@ -1,0 +1,16 @@
+params:
+  afim:
+    - gosta
+    - ama
+    - afim
+  conjuge:
+    - marido
+    - mulher
+    - "espos[oa]"
+    - "namorad[oa]"
+  ontem:
+    - ontem
+    - versão passado
+  tatuagem:
+    - taguagem
+    - marca no corpo
